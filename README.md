@@ -4,9 +4,8 @@ A simple, browser-based task manager built for **CSE 310 — Applied Programming
 It demonstrates plain JavaScript DOM manipulation, events, localStorage persistence, accessible UI, and basic filtering/search.
 
 ## Demo Video
-> Replace with your link: https://youtu.be/YOUR-VIDEO-LINK  
-The video shows my face, a demo of the app, and a walkthrough of the code.
-
+https://youtu.be/FbCA3MPbtUc
+ 
 ## Overview
 - Add tasks with optional notes and due dates
 - Edit, complete, delete tasks
@@ -40,13 +39,12 @@ The video shows my face, a demo of the app, and a walkthrough of the code.
 5. Use **Filter** and **Search** to narrow the list.
 6. Your tasks persist automatically (localStorage).
 
-## Screenshots
-(Add a screenshot or GIF here if you want—optional but helpful.)
+
 
 ## Useful Resources
 - MDN Web Docs (DOM, Events, localStorage)
 - Markdown Guide Cheat Sheet
 
 ## Author
-[Your Name] — CSE 310 Student
+Josue Neiculeo — CSE 310 Student
 

@@ -1,7 +1,7 @@
 /* 
   TaskManagerJS — CSE 310 Module #1 (Language – JavaScript)
-  Author: Your Name
-  Purpose: A simple, accessible task manager demonstrating DOM, events, state, and localStorage.
+  Author: Josue Neiculeo
+  Purpose: A simple, task manager demonstrating DOM, events, state, and localStorage.
 */
 
 /** --------------------------- Utilities ---------------------------------- */
